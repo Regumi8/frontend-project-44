@@ -16,3 +16,7 @@
 ## Пример работы игры "НОД"
 
 [![asciicast](https://asciinema.org/a/mArWMaZFYesgqRZn.svg)](https://asciinema.org/a/mArWMaZFYesgqRZn)
+
+## Пример работы игры "Арифметическая прогрессия"
+
+[![asciicast](https://asciinema.org/a/XaT5lDy1MhucEplG.svg)](https://asciinema.org/a/XaT5lDy1MhucEplG)
