@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regumi8/frontend-project-44.git"
+  },
+  "author": "Tatishchev Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regumi8/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Regumi8/frontend-project-44#readme"
+}
