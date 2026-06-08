@@ -12,3 +12,7 @@
 ## Пример работы игры "Калькулятор"
 
 [![asciicast](https://asciinema.org/a/m11dlp7duvIGXsfO.svg)](https://asciinema.org/a/m11dlp7duvIGXsfO)
+
+## Пример работы игры "НОД"
+
+[![asciicast](https://asciinema.org/a/mArWMaZFYesgqRZn.svg)](https://asciinema.org/a/mArWMaZFYesgqRZn)
