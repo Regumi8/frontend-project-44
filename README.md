@@ -20,3 +20,7 @@
 ## Пример работы игры "Арифметическая прогрессия"
 
 [![asciicast](https://asciinema.org/a/XaT5lDy1MhucEplG.svg)](https://asciinema.org/a/XaT5lDy1MhucEplG)
+
+## Пример работы игры "Простое число"
+
+[![asciicast](https://asciinema.org/a/C3YlLgCVN76MduIU.svg)](https://asciinema.org/a/C3YlLgCVN76MduIU)
